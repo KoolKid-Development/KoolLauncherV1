@@ -1,6 +1,8 @@
 # Kool-Launcher
 A custom minecraft launcher made in c# for your minecraft server!
 
+For support join our discord server -> https://discord.gg/Pbc9kF7JuE
+
 
 # Change Logs
 
