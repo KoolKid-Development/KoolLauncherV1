@@ -74,12 +74,6 @@ namespace GalacticCraftLauncher
             Pb_Progress.Value = e.ProgressPercentage;
         }
 
-        private void setUIEnabled(bool value)
-        {
-            settings.Enabled = value;
-            panel1.Enabled = value;
-        }
-
         private void StartProcess(Process process)
         {            
             output(process.StartInfo.Arguments);
@@ -170,8 +164,6 @@ namespace GalacticCraftLauncher
                 return;
             }
 
-            setUIEnabled(false);
-
             try
             {
                 var launchOption = new MLaunchOption()
@@ -235,7 +227,6 @@ namespace GalacticCraftLauncher
             }
             finally
             {
-                setUIEnabled(true);
                 Application.Exit();
             }
         }
