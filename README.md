@@ -19,3 +19,14 @@ Changed
 ``Removed button text added icons``
 Removed
 ``Some old icons``
+
+# V3
+
+Added
+``Custom Website For Launcher``
+In Beta
+``MySql Support!``
+Changed
+``Login Form``
+Removed
+``Old Code That Was Not Working!``
