@@ -394,7 +394,7 @@ namespace KoolLauncher
             this.forumurl.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.HistoryList;
             this.forumurl.BorderColor = System.Drawing.Color.White;
             this.forumurl.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.forumurl.DefaultText = "https://galacticcraft.ro/forum/";
+            this.forumurl.DefaultText = "https://forum.yourmc.net";
             this.forumurl.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.forumurl.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.forumurl.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -414,7 +414,6 @@ namespace KoolLauncher
             this.forumurl.PasswordChar = '\0';
             this.forumurl.PlaceholderText = "your store url here";
             this.forumurl.SelectedText = "";
-            this.forumurl.SelectionStart = 31;
             this.forumurl.ShadowDecoration.Parent = this.forumurl;
             this.forumurl.Size = new System.Drawing.Size(285, 29);
             this.forumurl.TabIndex = 40;
@@ -425,7 +424,7 @@ namespace KoolLauncher
             this.voteurl.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.HistoryList;
             this.voteurl.BorderColor = System.Drawing.Color.White;
             this.voteurl.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.voteurl.DefaultText = "https://galacticcraft.ro/vote";
+            this.voteurl.DefaultText = "https://vote.yourmc.net";
             this.voteurl.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.voteurl.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.voteurl.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -445,7 +444,6 @@ namespace KoolLauncher
             this.voteurl.PasswordChar = '\0';
             this.voteurl.PlaceholderText = "your server vote url here";
             this.voteurl.SelectedText = "";
-            this.voteurl.SelectionStart = 29;
             this.voteurl.ShadowDecoration.Parent = this.voteurl;
             this.voteurl.Size = new System.Drawing.Size(285, 29);
             this.voteurl.TabIndex = 39;
@@ -456,7 +454,7 @@ namespace KoolLauncher
             this.storeurl.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.HistoryList;
             this.storeurl.BorderColor = System.Drawing.Color.White;
             this.storeurl.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.storeurl.DefaultText = "http://store.galacticcraft.ro";
+            this.storeurl.DefaultText = "https://store.yourmc.net";
             this.storeurl.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.storeurl.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.storeurl.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -476,7 +474,6 @@ namespace KoolLauncher
             this.storeurl.PasswordChar = '\0';
             this.storeurl.PlaceholderText = "your server store url here";
             this.storeurl.SelectedText = "";
-            this.storeurl.SelectionStart = 29;
             this.storeurl.ShadowDecoration.Parent = this.storeurl;
             this.storeurl.Size = new System.Drawing.Size(285, 29);
             this.storeurl.TabIndex = 38;
@@ -487,7 +484,7 @@ namespace KoolLauncher
             this.discordurl.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.HistoryList;
             this.discordurl.BorderColor = System.Drawing.Color.White;
             this.discordurl.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.discordurl.DefaultText = "https://galacticcraft.ro/discord";
+            this.discordurl.DefaultText = "https://discord.yourmc.net";
             this.discordurl.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.discordurl.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.discordurl.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -507,7 +504,6 @@ namespace KoolLauncher
             this.discordurl.PasswordChar = '\0';
             this.discordurl.PlaceholderText = "your server discord url";
             this.discordurl.SelectedText = "";
-            this.discordurl.SelectionStart = 32;
             this.discordurl.ShadowDecoration.Parent = this.discordurl;
             this.discordurl.Size = new System.Drawing.Size(285, 29);
             this.discordurl.TabIndex = 37;
@@ -559,7 +555,7 @@ namespace KoolLauncher
             this.Txt_ServerIp.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.HistoryList;
             this.Txt_ServerIp.BorderColor = System.Drawing.Color.White;
             this.Txt_ServerIp.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.Txt_ServerIp.DefaultText = "mc.galacticcraft.ro";
+            this.Txt_ServerIp.DefaultText = "play.yourmc.net";
             this.Txt_ServerIp.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.Txt_ServerIp.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.Txt_ServerIp.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -579,7 +575,6 @@ namespace KoolLauncher
             this.Txt_ServerIp.PasswordChar = '\0';
             this.Txt_ServerIp.PlaceholderText = "your server ip here";
             this.Txt_ServerIp.SelectedText = "";
-            this.Txt_ServerIp.SelectionStart = 19;
             this.Txt_ServerIp.ShadowDecoration.Parent = this.Txt_ServerIp;
             this.Txt_ServerIp.Size = new System.Drawing.Size(285, 29);
             this.Txt_ServerIp.TabIndex = 33;
@@ -616,7 +611,7 @@ namespace KoolLauncher
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Image = global::KoolLauncher.Properties.Resources.download;
             this.pictureBox1.Location = new System.Drawing.Point(12, 8);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(26, 22);
@@ -892,7 +887,7 @@ namespace KoolLauncher
             // pictureBox6
             // 
             this.pictureBox6.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
+            this.pictureBox6.Image = global::KoolLauncher.Properties.Resources.download;
             this.pictureBox6.Location = new System.Drawing.Point(434, 38);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(175, 141);
@@ -911,9 +906,9 @@ namespace KoolLauncher
             this.bunifuLabel5.Location = new System.Drawing.Point(427, 199);
             this.bunifuLabel5.Name = "bunifuLabel5";
             this.bunifuLabel5.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel5.Size = new System.Drawing.Size(189, 32);
+            this.bunifuLabel5.Size = new System.Drawing.Size(182, 32);
             this.bunifuLabel5.TabIndex = 4;
-            this.bunifuLabel5.Text = "KoolLauncher";
+            this.bunifuLabel5.Text = "YourMcName";
             this.bunifuLabel5.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
             this.bunifuLabel5.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
             // 
@@ -928,7 +923,7 @@ namespace KoolLauncher
             this.admconfig.Controls.Add(this.Txt_ServerPort);
             this.admconfig.Controls.Add(this.discordurl);
             this.admconfig.Controls.Add(this.label6);
-            this.admconfig.Location = new System.Drawing.Point(209, 65);
+            this.admconfig.Location = new System.Drawing.Point(192, 293);
             this.admconfig.Name = "admconfig";
             this.admconfig.Size = new System.Drawing.Size(726, 202);
             this.admconfig.TabIndex = 40;
@@ -971,7 +966,7 @@ namespace KoolLauncher
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "KoolLauncher";
+            this.Text = "YourMcName";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.Shown += new System.EventHandler(this.MainForm_Shown);
             this.settings.ResumeLayout(false);

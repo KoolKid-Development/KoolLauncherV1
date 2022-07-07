@@ -79,9 +79,9 @@
             this.txtname.Location = new System.Drawing.Point(70, 138);
             this.txtname.Name = "txtname";
             this.txtname.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.txtname.Size = new System.Drawing.Size(134, 25);
+            this.txtname.Size = new System.Drawing.Size(130, 25);
             this.txtname.TabIndex = 3;
-            this.txtname.Text = "KoolLauncher";
+            this.txtname.Text = "YourMcName";
             this.txtname.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
             this.txtname.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
             // 
@@ -161,7 +161,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Loadingform";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "KoolLauncher";
+            this.Text = "YourMcName";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
