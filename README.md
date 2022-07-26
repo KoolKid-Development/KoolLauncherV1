@@ -10,7 +10,7 @@ For support join our discord server -> https://discord.gg/Pbc9kF7JuE
 ``Launcher Created``
 # V1.2
 ``- Fix username bug``
-# V2
+# V1.3
 Added
 ``Loading Form``
 In Beta
@@ -20,7 +20,7 @@ Changed
 Removed
 ``Some old icons``
 
-# V3
+# V1.4 (LAST VERSION)
 
 Added
 ``Custom Website For Launcher``
